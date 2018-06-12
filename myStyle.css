@@ -1,5 +1,5 @@
  body {
-                background:white;
+                background:DarkGoldenRod;
                 color: black ;
                 padding: 10px;
                 font9-family: Popyrus ;
@@ -41,7 +41,7 @@
     
             /* main container area beneath menu */
             main {
-                background: purple;
+                background: White;
                 display: flex;
             }
             .sidebar {
